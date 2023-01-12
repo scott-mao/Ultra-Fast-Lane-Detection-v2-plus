@@ -1,11 +1,11 @@
-![](doc/sbyt.png)
-
 # Ultra-Fast-Lane-Detection-V2-plus
 # 优化内容
 减低了模型参数; 相对收敛加快; 推理速度更快、精度更高。直接使用官方的train.py就可以训练。更多内容看doc里面的东西。ufld-v3在路上，在等一个长假完成。这是个临时版本，后面我对代码做了i修改。春节时间上传。
 Tips：发现模型特别大怎么办？把用于保存模型的字典中'optimizer'去掉。
 # 新闻
 我在做一个"Fantastic-yolov5"的项目,用它做了很多事，比如分割，检测车道线，分类，ocr识别车牌，多任务。目前做了50%，我在等一个长的假期去把它完成。期待吧。
+
+![]( doc/sbyt.png "vis")
 
 # Ultra-Fast-Lane-Detection-V2
 
