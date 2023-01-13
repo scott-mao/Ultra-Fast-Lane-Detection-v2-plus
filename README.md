@@ -5,7 +5,7 @@ Tips：发现模型特别大怎么办？把用于保存模型的字典中'optimi
 # 新闻
 我在做一个"Fantastic-yolov5"的项目,用它做了很多事，比如分割，检测车道线，分类，ocr识别车牌，多任务。目前做了50%，我在等一个长的假期去把它完成。期待吧。
 
-![]( doc/sbyt.png "vis")
+![]( doc/1234.png "vis")
 
 # Ultra-Fast-Lane-Detection-V2
 
